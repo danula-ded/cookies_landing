@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: "Steppe-Book";
-    src: url("../fonts/Stoppe-Book.ttf");
+    src: url("../fonts/Steppe-Book.ttf");
 }
 
 @font-face {
     font-family: "Steppe-ExtraBold";
-    src: url("../fonts/Stoppe-ExtraBold.ttf");
+    src: url("../fonts/Steppe-ExtraBold.ttf");
 }
 
 body {
@@ -33,7 +33,7 @@ body {
     background-color: white;
     border-radius: 60px;
     width: 178px;
-    height: 50px;
+    height: 58px;
     box-sizing: border-box;
     padding: 18px;
     text-align: center;
